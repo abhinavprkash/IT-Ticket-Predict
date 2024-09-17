@@ -10,15 +10,6 @@ This project aims to categorize IT tickets using machine learning models. It uti
 - **Scikit-Learn**: Machine learning library
 - **Jupyter Notebook**: Interactive development
 
-## Project Structure
-- `.gitignore` - Git ignore file.
-- `README.md` - This file.
-- `source.ipynb` - Jupyter notebook for source code.
-- `Datasets/tickets.csv` - Dataset used in the project.
-- `Resources/` - Contains confusion matrices (BNB, LR, SVM).
-- `static/style.css` - Frontend CSS styling.
-- `templates/index.html` - Main HTML file.
-- `templates/submit.html` - HTML for file submission.
 
 ## Installation Instructions
 1. **Clone the Repository**:
